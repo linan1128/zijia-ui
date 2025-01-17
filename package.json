@@ -1,0 +1,14 @@
+{
+  "name": "acme-design",
+  "version": "0.1.0",
+  "private": "true",
+  "packageManager": "pnpm@9.15.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "linan1128",
+  "license": "MIT"
+}
