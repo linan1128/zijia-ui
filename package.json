@@ -1,14 +1,27 @@
 {
   "name": "acme-design",
+  "type": "module",
   "version": "0.1.0",
   "private": "true",
   "packageManager": "pnpm@9.15.4",
   "description": "",
+  "author": "linan1128",
+  "license": "MIT",
+  "keywords": [],
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "pnpm -C playground dev",
+    "docs:build": "pnpm -C docs docs:build",
+    "lint": "eslint ."
   },
-  "keywords": [],
-  "author": "linan1128",
-  "license": "MIT"
+  "devDependencies": {
+    "@antfu/eslint-config": "^3.14.0",
+    "@unocss/eslint-plugin": "^65.4.0",
+    "eslint": "^9.18.0",
+    "eslint-plugin-format": "^1.0.1",
+    "typescript": "^5.7.3",
+    "unocss": "^65.4.2",
+    "vue": "^3.5.13",
+    "vue-tsc": "^2.2.0"
+  }
 }

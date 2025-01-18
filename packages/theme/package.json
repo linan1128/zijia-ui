@@ -2,11 +2,11 @@
   "name": "@acme-design/theme",
   "version": "0.1.0",
   "description": "",
+  "author": "linan1128",
+  "license": "MIT",
+  "keywords": [],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "linan1128",
-  "license": "MIT"
+  }
 }

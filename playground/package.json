@@ -1,12 +1,17 @@
 {
   "name": "@acme-design/playground",
+  "type": "module",
   "version": "0.1.0",
+  "private": "true",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
   "author": "linan1128",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [],
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.0.7"
+  }
 }
