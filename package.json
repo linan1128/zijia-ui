@@ -11,8 +11,12 @@
   "main": "index.js",
   "scripts": {
     "dev": "pnpm -C playground dev",
+    "docs:dev": "pnpm -C docs docs:dev",
     "docs:build": "pnpm -C docs docs:build",
     "lint": "eslint ."
+  },
+  "dependencies": {
+    "@unocss/reset": "^65.4.2"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^3.14.0",
