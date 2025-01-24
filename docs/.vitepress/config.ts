@@ -21,6 +21,10 @@ export default defineConfig({
         ],
       },
     ],
+    footer: {
+      message: 'Released under the <a href="https://github.com/linan1128/acme-design/blob/main/LICENSE">MIT License</a>.',
+      copyright: 'Copyright © 2025-present <a href="https://github.com/linan1128">linan1128</a>'
+    },
 
     docFooter: {
       prev: '上一页',
