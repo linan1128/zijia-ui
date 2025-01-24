@@ -8,11 +8,11 @@ hero:
   tagline: 可定制 · 快速
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 快速开始
+      link: /guide
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: GitHub
+      link: https://github.com/linan1128/acme-design
 
 features:
   - icon: <span class="i-logos-vue" />
