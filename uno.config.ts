@@ -1,4 +1,4 @@
-import { defineConfig, presetUno } from 'unocss'
+import { defineConfig, presetUno,presetIcons } from 'unocss'
 
 export default defineConfig({
   // ...UnoCSS options
@@ -8,5 +8,5 @@ export default defineConfig({
       'btn-default': 'bg-gray-300 text-black hover:bg-gray-200 shadow-gray-300/40',
     },
   ],
-  presets: [presetUno()],
+  presets: [presetUno(),presetIcons()],
 })
