@@ -1,4 +1,5 @@
-import { defineConfig, presetUno,presetIcons } from 'unocss'
+import { defineConfig, presetIcons,presetUno } from 'unocss'
+import from '@zijia-ui/preset-theme-default/src/index.ts'
 
 export default defineConfig({
   // ...UnoCSS options
