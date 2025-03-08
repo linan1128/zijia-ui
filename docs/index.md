@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Acme Design"
+  name: "Zijia UI"
   text: "一个Vue3组件库"
   tagline: 可定制 · 快速
   actions:

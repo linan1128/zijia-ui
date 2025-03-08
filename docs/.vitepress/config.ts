@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: 'Acme Design',
+  title: 'Zijia UI',
   description: '一个Vue3组件库',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -23,7 +23,7 @@ export default defineConfig({
     ],
     footer: {
       message: 'Released under the <a href="https://github.com/linan1128/zijia-ui/blob/main/LICENSE">MIT License</a>.',
-      copyright: 'Copyright © 2025-present <a href="https://github.com/linan1128">linan1128</a>'
+      copyright: 'Copyright © 2025-present <a href="https://github.com/linan1128">linan1128</a>',
     },
 
     docFooter: {
