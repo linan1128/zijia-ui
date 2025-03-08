@@ -22,7 +22,7 @@ export default defineConfig({
       },
     ],
     footer: {
-      message: 'Released under the <a href="https://github.com/linan1128/acme-design/blob/main/LICENSE">MIT License</a>.',
+      message: 'Released under the <a href="https://github.com/linan1128/zijia-ui/blob/main/LICENSE">MIT License</a>.',
       copyright: 'Copyright © 2025-present <a href="https://github.com/linan1128">linan1128</a>'
     },
 
@@ -32,7 +32,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/linan1128/acme-design' },
+      { icon: 'github', link: 'https://github.com/linan1128/zijia-ui' },
     ],
     search: {
       provider: 'local',

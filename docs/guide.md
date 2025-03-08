@@ -1,7 +1,7 @@
 # Guide
 
 <script setup>
-import Button from '@acme-design/components/button'
+import Button from '@zijia-ui/components/button'
 </script>
 
 <ComponentPreview>

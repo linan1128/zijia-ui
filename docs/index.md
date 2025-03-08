@@ -12,7 +12,7 @@ hero:
       link: /guide
     - theme: alt
       text: GitHub
-      link: https://github.com/linan1128/acme-design
+      link: https://github.com/linan1128/zijia-ui
 
 features:
   - icon: <span class="i-logos-vue" />
